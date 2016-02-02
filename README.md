@@ -1,3 +1,7 @@
+#### Final assignment - applied regression analysis ####
+
+All data can be found at https://drive.google.com/folderview?id=0Bw_UjrqiL3MaMnFCT2R0Y2RINTQ&usp=sharing
+
 1/ EFFICIENT MARKETS
 The data for this question is in market.csv. 
 
