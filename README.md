@@ -2,8 +2,8 @@
 The data for this question is in market.csv. 
 
 We consider daily stock returns for Google and Starbucks (RET.GOOG and RET.SBUX), the risk-free rate of return (RF), the market return over risk-free rate (MKTminusRF), as well as the two extra variables in a Fama-French three factor model:
- SMB, “small minus big”, which measures the excess return of small over large cap stocks.
- HML, “high minus low”, which measures the excess return of value stocks over growth stocks.
+  SMB, “small minus big”, which measures the excess return of small over large cap stocks.
+  HML, “high minus low”, which measures the excess return of value stocks over growth stocks.
 We also include a momentum factor, MOM, which some believe is necessary to explain returns. These factors are available on Ken French’s website. For further detail, see Fama & French, “The Cross-Section of Expected Stock Returns” from the Journal of Finance 47, 1992, pages 427–465.
 
 Which is the best model for each of Google and Starbucks stocks? Evaluate relative evidence for CAPM, the three-factor model, and a momentum factor.
